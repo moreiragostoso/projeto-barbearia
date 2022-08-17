@@ -1,7 +1,17 @@
- p {
+body {
+     background: #CCCCCC; 
+}
+h1{
+    text-align: center;
+}
+p {
      text-align: center;
  }
 
-body {
-     background: #CCCCCC; 
+ #missao { 
+   font-size: 20px;
+}
+
+em strong {
+    color: #FF0000;
 }
